@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CloudSh Example Hugo Site"
+theme = "ananke"
+
+[params]
+  cloudshToken = "CSH TOKEN HERE"
